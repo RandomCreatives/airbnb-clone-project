@@ -10,7 +10,7 @@ By completing this project, you will:
 - Develop skills in component-based frontend architecture
 - Learn best practices for web application development
 
-####Tech Stack
+#### Tech Stack
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
